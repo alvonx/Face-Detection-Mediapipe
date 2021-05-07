@@ -2,7 +2,6 @@ import cv2
 import time
 import mediapipe as mp
 
-video_path = 'C:/Users/Deepak/Desktop/vdo/trim1.mp4'
 cap = cv2.VideoCapture(0)
 pTime = 0
 
